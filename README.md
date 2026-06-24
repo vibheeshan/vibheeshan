@@ -2,9 +2,8 @@
 
 <!-- ═══════════════════════  HERO  ═══════════════════════ -->
 
-<img src="https://cdna.artstation.com/p/assets/images/images/055/086/844/original/gun-sirichote-night-workflow3-animated3-edit.gif?1666093203" alt="Vibheeshan N K — Hero Animation" width="100%" style="border-radius:12px;" />
 
-
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 <br/>
 
 # VIBHEESHAN N K
@@ -296,22 +295,18 @@ class Vibheeshan:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=[https://github.com/vibheeshan]&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vibheeshan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" width="48%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[https://github.com/vibheeshan]&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibheeshan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=[https://github.com/vibheeshan]&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vibheeshan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=6e7681" width="70%" />
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=[https://github.com/vibheeshan]&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-
-<br/><br/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB]&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vibheeshan&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=0e4429&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
 
 </div>
 
@@ -321,18 +316,6 @@ class Vibheeshan:
 
 <div align="center">
 
-## 🏆 LeetCode Stats
-
-<br/>
-
-<img src="https://leetcard.jacoblin.cool/[YOUR_LEETCODE]?theme=dark&font=Nunito&ext=heatmap&border=0&radius=12" width="70%" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?label=Solved&query=totalSolved&url=https://leetcode-stats-api.herokuapp.com/[YOUR_LEETCODE]&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/dynamic/json?label=Easy&query=easySolved&url=https://leetcode-stats-api.herokuapp.com/[YOUR_LEETCODE]&color=00B8A3&style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamic/json?label=Medium&query=mediumSolved&url=https://leetcode-stats-api.herokuapp.com/[YOUR_LEETCODE]&color=FFC01E&style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/dynamic/json?label=Hard&query=hardSolved&url=https://leetcode-stats-api.herokuapp.com/[YOUR_LEETCODE]&color=EF4743&style=for-the-badge&logo=leetcode&logoColor=white" />
 
 </div>
 
