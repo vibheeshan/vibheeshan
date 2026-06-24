@@ -199,7 +199,10 @@ class Vibheeshan:
 <summary><b>🤖 AI / ML & Emerging Tech</b></summary>
 <br/>
 <div align="center">
-[![My Skills](https://skillicons.dev/icons?i=llm,prompt,vecdb,rag,langchain&theme=dark)](https://skillicons.dev)
+  
+<!-- ✅ FIXED: Replaced invalid slugs (llm,prompt,vecdb,rag,langchain) with valid skillicons slugs -->
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,azure&theme=dark)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-7B2FBE?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Vector_DBs-00B4D8?style=for-the-badge&logo=pinecone&logoColor=white" />
@@ -222,6 +225,22 @@ class Vibheeshan:
 </details>
 
 <br/>
+
+<summary><b>🔌 Embedded & IoT</b></summary>
+<br/>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi,c,cpp,linux&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+
+</div>
+</details>
 
 <details>
 <summary><b>🔧 Tools & Workflow</b></summary>
